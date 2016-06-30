@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-ThinkDSP
-========
+# OctaveDSP
+Digital signal processing with GNU Octave, free book
 
-LaTeX source and Python code for _Think DSP: Digital Signal Processing in Python_, by Allen B. Downey.
+Based on _Think DSP: Digital Signal Processing in Python_, by Allen B. Downey.
 
 The premise of this book (and the other books in the _Think X_ series) is that if you know how to program,
 you can use that skill to learn other things.  I am writing this book because I think the conventional
@@ -67,6 +66,4 @@ http://www.freesound.org/people/marcgascon7/sounds/87778/
 
 http://www.freesound.org/people/jcveliz/sounds/92002/
 =======
-# OctaveDSP
-Digital signal processing with GNU Octave, free book
->>>>>>> da1b82940f5df025b89b11163a488243093191bf
+
