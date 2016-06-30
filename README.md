@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ThinkDSP
 ========
 
@@ -65,3 +66,7 @@ http://www.freesound.org/people/rockwehrmann/sounds/72475/
 http://www.freesound.org/people/marcgascon7/sounds/87778/
 
 http://www.freesound.org/people/jcveliz/sounds/92002/
+=======
+# OctaveDSP
+Digital signal processing with GNU Octave, free book
+>>>>>>> da1b82940f5df025b89b11163a488243093191bf
